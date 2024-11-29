@@ -1,4 +1,4 @@
-;; BeautyVotes: A decentralized voting app for beauty tips, trends, or products
+;; BeautyVotes: This is a decentralized voting app for beauty tips, trends, or products
 
 ;; Data Variables
 (define-map votes principal uint)  ;; Tracks users and their votes
