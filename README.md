@@ -1,6 +1,5 @@
-# BeautyVotes
+## BeautyVotes:
 
-## Description:
 BeautyVotes is a decentralized voting app where users can vote for their favorite beauty tips, trends, or products. Each user can cast only one vote per item, and the system keeps track of the votes for each item.
 
 ## Features:
